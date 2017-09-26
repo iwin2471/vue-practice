@@ -1,0 +1,23 @@
+{
+  "name": "vue-practice",
+  "version": "1.0.0",
+  "description": "this is iwin247's vue practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwin2471/vue-practice.git"
+  },
+  "keywords": [
+    "iwin247",
+    "vue"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iwin2471/vue-practice/issues"
+  },
+  "homepage": "https://github.com/iwin2471/vue-practice#readme"
+}
